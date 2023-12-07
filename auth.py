@@ -1,5 +1,5 @@
-default_username = "Dinasoa"
-default_password = "averystrongpassword"
+default_username = "random"
+default_password = "strongpassword"
 
 def auth():
     username = input(f"Veuillez entrer votre nom: ")
